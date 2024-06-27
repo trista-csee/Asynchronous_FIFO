@@ -43,7 +43,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 吳華楨 Trista Wu - trista.cs11@nycu.edu.tw
 
-Project Link: []()
+Project Link: [https://github.com/trista-csee/Asynchronous_FIFO](https://github.com/trista-csee/Asynchronous_FIFO)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

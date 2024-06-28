@@ -26,8 +26,8 @@
 * Synchronization of FIFO pointers into the opposite clock domain is safely accomplished using Gray code pointers.
 ![image](https://github.com/trista-csee/Asynchronous_FIFO/blob/main/Dual%20n-bit%20Gray%20code%20counter%20block%20diagram%20-%20style%20%231.png)
 
-<!-- Schmatic -->
-## Schmatic
+<!-- Schematic -->
+## Schematic
 ![image]()
 
 * Enlarge the left half
